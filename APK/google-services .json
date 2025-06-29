@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "308435464053",
+    "project_id": "kineia-fb246",
+    "storage_bucket": "kineia-fb246.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308435464053:android:2bf769667437cd1d2c2d3c",
+        "android_client_info": {
+          "package_name": "org.ycc.sordos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308435464053-ku0dg2haqa8eojmepe2mj3qplutqbpi6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.ycc.sordos",
+            "certificate_hash": "d922d7b3949a77c7ad92f822d1977070be4448a6"
+          }
+        },
+        {
+          "client_id": "308435464053-42b57c2s6ov45om12g571181l9h3nf78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUPtRQXAJR49f1p6i_3cxeMqkxyyb5-Wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308435464053-42b57c2s6ov45om12g571181l9h3nf78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

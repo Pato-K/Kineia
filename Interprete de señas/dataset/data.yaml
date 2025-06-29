@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['calm', 'feel', 'i', 'now']
+
+roboflow:
+  workspace: alex-qnklz
+  project: proyecto-lyg6a
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/alex-qnklz/proyecto-lyg6a/dataset/2
